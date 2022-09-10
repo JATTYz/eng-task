@@ -1,0 +1,55 @@
+{
+  "contacts": [
+    {
+      "contact": {
+        "id": "5f74ff6-c28d-a87f-153c-17b7af2cd20a",
+        "name": "James Butt",
+        "email": "b@gmail.com",
+        "phone": "04324234"
+      },
+      "id": "5f74ff6-c28d-a87f-153c-17b7af2cd20a"
+    },
+    {
+      "contact": {
+        "id": "02e6d3-b812-c5c-4f5-dfcfff7ceac6",
+        "name": "Cammy Nicka",
+        "email": "camnicka@gmail.com",
+        "phone": "0313139635"
+      },
+      "id": "02e6d3-b812-c5c-4f5-dfcfff7ceac6"
+    },
+    {
+      "id": "b27b5e-5cec-b0ac-aceb-7444628db251",
+      "contact": {
+        "name": "Abel Rute",
+        "email": "ARs@gmail.com",
+        "phone": "0343422434"
+      }
+    },
+    {
+      "id": "04f25a-6dc-cb36-1147-d8ab46725b",
+      "contact": {
+        "name": "Alisha Flori",
+        "email": "alfe@hotmail.com",
+        "phone": "0452544556"
+      }
+    },
+    {
+      "id": "675a7c0-6eb7-035-a18-f3e27edbc5d3",
+      "contact": {
+        "name": "Tim Sergo",
+        "email": "Tser@hotmail.com",
+        "phone": "0393948584"
+      }
+    },
+    {
+      "id": "4a36ab-662-27b-e8c-424ccccf7c7",
+      "contact": {
+        "name": "Jose Glick",
+        "email": "JG@gmail.com",
+        "phone": "0344423234"
+      }
+    }
+  ],
+  "newContacts": []
+}
