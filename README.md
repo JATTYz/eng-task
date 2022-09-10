@@ -4,7 +4,7 @@
 I created two folders which will be described below:
   - Go to the stomble_project folder which was built with React and dummy contacts (json-server) -> </br>
     Simply run the json server first by  type: **npm run server** </br>
-    And then run React by type: **npm start** </br>
+    And then open new terminal and run React by type: **npm start** </br>
     
   - Go to the vCard_server folder which was built with node.js and used to store contact lists. </br>
     Simply run: **npm start**
