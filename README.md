@@ -1,4 +1,4 @@
-# Stomble-task
+# Engineering-task
 ## The objective of the task is to create a contact list (vCard) which either import from a device or import it manually.
 ### To run this project 
 I created two folders which will be described below:
